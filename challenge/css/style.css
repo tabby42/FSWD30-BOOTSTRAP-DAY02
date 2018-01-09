@@ -1,0 +1,18 @@
+body {
+  font-family: "Roboto Slab", sans-serif;
+  font-weight: 400; }
+
+h1, h2, h3, h4 {
+  font-family: "Alfa Slab One", cursive; }
+
+.navbar {
+  border-radius: 0; }
+
+header {
+  background-image: url("../img/everest-1920.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  padding: 200px 50px; }
+
+/*# sourceMappingURL=style.css.map */
